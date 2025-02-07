@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # Load trained model
-model = pickle.load(open("/Applications/Machine Python/AgoroAI-Intern/Student Depression Dataset/student_depression_model.pkl", "rb"))
+model = pickle.load(open("student_depression_model.pkl", "rb"))
 
 # Define UI
 st.title("🧠 Depression and Anxiety Symptoms")
