@@ -61,4 +61,4 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-I have already deplyed the model here: 
+I have already deplyed the model here: https://xmlpnpkxu7xyzzuvh3maeo.streamlit.app/
