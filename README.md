@@ -1,5 +1,3 @@
-# Here’s your updated README.md based on your specific steps:
-
 🧠 Student Mental Health Prediction (Depression)
 
 This project utilizes machine learning (XGBoost & Random Forest) to predict student mental health conditions based on symptoms. It also integrates LLM-based suggestions for coping strategies based on prediction confidence.
